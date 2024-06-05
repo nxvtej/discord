@@ -9,3 +9,8 @@
 
  3. every folder i create is mapped to route 
     refer to (COMMIT - 3)
+
+    - can you organization folder like (auth) and then create login inside
+
+4.  created a custom layout inside (auth) which is only applicable those pages
+
