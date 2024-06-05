@@ -1,0 +1,7 @@
+1.  can create very own variants of components by going to components and changing values in variants
+    that will give me access to that variants when using that components like button variant i used for testing(not pushin that)
+2.  lib folder is also added by shadcn it has function as cn very usefull it uses at various places
+    helps in creating dynamic classes where there are cases where we create conflicting classes
+
+    lets see example on second commit
+    
