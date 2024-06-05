@@ -24,4 +24,5 @@
     simply by updating .env route and then folder routes
     refer to(COMMIT - 5)
 
+6.  layout in action refer ti(COMMIT - 6)
 
