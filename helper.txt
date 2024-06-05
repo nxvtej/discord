@@ -26,3 +26,37 @@
 
 6.  layout in action refer ti(COMMIT - 6)
 
+7.  refer to (COMMIT - 8) added dark theme and logout button
+    from documentation
+
+    {
+        <body className={font.className}>
+        <ThemeProvider
+        attribute="class"    //this is important as it specifies the HTML attribute that will be used
+        defaultTheme="dark"
+        enableSystem={false}
+        storageKey="discord-theme" // this specifies the key that will be used to store user perference
+        >
+        {children}
+        </ThemeProvider>
+     
+        </body>
+    }
+
+8.  some more changes to same code
+        {
+            
+      <body className={cn(font.className,
+        "bg-white dark:bg-[#313338]"
+      )}>                                       //using cn here for darktheme
+        <ThemeProvider
+        attribute="class"
+        defaultTheme="dark"
+        enableSystem={false}
+        storageKey="discord-theme"
+        >
+        {children}
+        </ThemeProvider>
+     
+        </body>
+        }
