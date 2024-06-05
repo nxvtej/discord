@@ -60,3 +60,11 @@
      
         </body>
         }
+
+9.  refer to ( COMMIT - 9 )
+    created models
+
+10. ** important
+
+    to save creating too many prisma models
+    added a check for development and production 
