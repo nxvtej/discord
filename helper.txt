@@ -4,4 +4,8 @@
     helps in creating dynamic classes where there are cases where we create conflicting classes
 
     lets see example on second commit
-    
+
+    refer to (COMMIT - 2)
+
+ 3. every folder i create is mapped to route 
+    refer to (COMMIT - 3)
