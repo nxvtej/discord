@@ -17,5 +17,11 @@
 
     (this can be used when we need sidebar with specific pages can create it in layout)
 
-5.  [[...sign-in]] this gives access to all the routes inside that folder
+5.  [[...sign-in]] this gives access to all the routes inside that folder (.env file updated) uses clerk
+    can also change name of 
+    sign-in to log-in
+    sign-up to register 
+    simply by updating .env route and then folder routes
+    refer to(COMMIT - 5)
+
 
